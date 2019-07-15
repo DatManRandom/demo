@@ -1,6 +1,12 @@
 {
  "messages": [
-   {"text": "Welcome to the Chatfuel Rockets!"},
-   {"text": "What are you up to?"}
- ]
+  {"text": "Test Text"},
+  {"text"; "Please Give Me All Your Money!"},
+  {"attachment":
+   { "type": "image",
+    "payload": {
+     "url": "https://rockets.chatfuel.com/assets/welcome.png"
+    }
+   }
+  ]
 }
