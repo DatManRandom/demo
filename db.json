@@ -1,12 +1,13 @@
 {
  "messages": [
   {"text": "Test Text"},
-  {"text"; "Please Give Me All Your Money!"},
+  {"text": "Please Give Me All Your Money!"},
   {"attachment":
    { "type": "image",
     "payload": {
      "url": "https://rockets.chatfuel.com/assets/welcome.png"
     }
    }
+  }
   ]
 }
